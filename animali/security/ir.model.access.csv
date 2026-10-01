@@ -1,0 +1,3 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_gestione_animals,access_gestione_animals,model_gestione_animals,base.group_user,1,1,1,1
+access_gestione_owners,access_gestione_owners,model_gestione_owners,base.group_user,1,1,1,1

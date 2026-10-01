@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem id="menu_gestione_root"
+            name="Gestione"
+            sequence="10"/>
+
+    <menuitem id="menu_gestione_owner"
+            name="Proprietari"
+            parent="menu_gestione_root"
+            action="action_gestione_owner"
+            sequence="10"/>
+</odoo>
